@@ -9,3 +9,14 @@ Cons
 (b)
 Scrum Manager - responsible for all scrum related tasks, including JIRA, and facilitating springs and meetings.
 Product Owner - responsible for setting direction for the team, and handles releases and stakeholder/customer management.
+
+(c)
+1. Sprint Planning Meeting
+    a) Determine what to complete in the coming sprint.
+    b) Determine story points and assign stories to teams.
+2. Daily Scrum/Standup Meeting
+    a) Discuss work completed.
+    b) Discuss work plan for the day and any blockers.
+3. Sprint Retrospective Meeting
+    a) Discuss work completed.
+    b) Move incomplete work to backlog.
