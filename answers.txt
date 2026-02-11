@@ -5,3 +5,7 @@ Pros
 Cons
 1. Takes a while to set up, especially if the project is already underway, and can be hard to move from big deadlines to smaller sprint ideology.
 2. Requires everyone to follow the standards, and requires a high level of discipline to manage the constant communication and upkeep.
+
+(b)
+Scrum Manager - responsible for all scrum related tasks, including JIRA, and facilitating springs and meetings.
+Product Owner - responsible for setting direction for the team, and handles releases and stakeholder/customer management.
