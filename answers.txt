@@ -20,3 +20,9 @@ Product Owner - responsible for setting direction for the team, and handles rele
 3. Sprint Retrospective Meeting
     a) Discuss work completed.
     b) Move incomplete work to backlog.
+
+(d)
+Epic - Largest body of work that is broken down into stories.
+Story - Software requirement expressed in a few short sentences.
+Bug - Smallet piece of work, typically to fix code that isn't working as intended.
+Task - A unit of work that contributes towards completing a story.
