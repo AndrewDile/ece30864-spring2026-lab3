@@ -1,0 +1,7 @@
+(a)
+Pros
+1. Breaks down a project into achievable parts and stages so that they can be organized and tracked independently, as well as released incrementally.
+2. Helps quantify how long projects or parts of projects may take, and allows all to access and view the efficiency of teams and members.
+Cons
+1. Takes a while to set up, especially if the project is already underway, and can be hard to move from big deadlines to smaller sprint ideology.
+2. Requires everyone to follow the standards, and requires a high level of discipline to manage the constant communication and upkeep.
